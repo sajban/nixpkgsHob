@@ -1,5 +1,5 @@
 {
-  description = "nixpkgsHob: Set of `nixpkgs`s";
+  description = "pkgss: Set of `nixpkgs`s for set of pinned `pkgs`s";
 
   inputs = {
     systemd253 = {
@@ -7,7 +7,7 @@
     };
   };
 
-  outputs = inputs@{ ... }: {
+  outputs = inputs: {
     type = "nixpkgsHob";
     value = removeAttrs inputs [ "self" ];
   };
