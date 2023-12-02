@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "root": {
+      "inputs": {
+        "systemd253": "systemd253"
+      }
+    },
+    "systemd253": {
+      "locked": {
+        "lastModified": 1694604627,
+        "narHash": "sha256-gBITPajqSn0QNRNO5tTBQ11wFW5hLq2/oTn8hn8gZ9o=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "981538cca38685a5bb4b5794f33505bb64b520ba",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "981538cca38685a5bb4b5794f33505bb64b520ba",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
