@@ -7,17 +7,17 @@
     },
     "systemd253": {
       "locked": {
-        "lastModified": 1694604627,
-        "narHash": "sha256-gBITPajqSn0QNRNO5tTBQ11wFW5hLq2/oTn8hn8gZ9o=",
+        "lastModified": 1698663625,
+        "narHash": "sha256-WVaeOWh378vf7xYcZyUTrUTNMhL3DYuW8W+I9vyQX38=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "981538cca38685a5bb4b5794f33505bb64b520ba",
+        "rev": "ac1dd9de6ce5e3040c49101f21f204744905f418",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "981538cca38685a5bb4b5794f33505bb64b520ba",
+        "rev": "ac1dd9de6ce5e3040c49101f21f204744905f418",
         "type": "github"
       }
     }

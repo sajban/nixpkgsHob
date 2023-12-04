@@ -2,9 +2,7 @@
   description = "pkgss: Set of `nixpkgs`s for set of pinned `pkgs`s";
 
   inputs = {
-    systemd253 = {
-      url = "github:NixOS/nixpkgs/981538cca38685a5bb4b5794f33505bb64b520ba";
-    };
+    systemd253.url = "github:NixOS/nixpkgs/ac1dd9de6ce5e3040c49101f21f204744905f418";
   };
 
   outputs = inputs: {
